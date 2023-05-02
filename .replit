@@ -1,4 +1,4 @@
-run = "mcs './LISTAS/q02_l2_encap.cs' -out:Main.exe ; mono Main.exe"
+run = "mcs './LISTAS/q04_encap.cs' -out:Main.exe ; mono Main.exe"
 
 [nix]
 channel = "stable-22_11"
